@@ -1,13 +1,12 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+   background-color: beige;
     width: 100%;
 }
 
 .contenedorExcusa{
     align-items: center;
-    border: 5px solid black;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 50%;
